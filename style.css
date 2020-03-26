@@ -1,0 +1,14 @@
+#draggable{
+  background-color: #FFD52D;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+}
+#droppable{
+  width: 500px;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: #44A0FF;
+  margin-top: 50px;
+  font-size: 20px;
+}
